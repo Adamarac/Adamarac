@@ -40,17 +40,9 @@
 
 ### 💡 Áreas de interesse · Areas of Interest
 
-| 🇧🇷 | 🇺🇸 |
-|---|---|
-| Engenharia de Software | Software Engineering |
-| Desenvolvimento de Sistemas Web | Web Systems Development |
-| Desenvolvimento de Jogos (GameDev) | Game Development (GameDev) |
-| Inteligência Artificial e LLMs | Artificial Intelligence & LLMs |
-| Sistemas Multiagentes | Multi-Agent Systems |
-| Engenharia de Dados | Data Engineering |
-| Sistemas Distribuídos | Distributed Systems |
-| Digital Twins e Simulação | Digital Twins & Simulation |
-| Automação Industrial | Industrial Automation |
+🇧🇷 Engenharia de Software · Desenvolvimento de Sistemas Web · Desenvolvimento de Jogos (GameDev) · Inteligência Artificial e LLMs · Sistemas Multiagentes · Engenharia de Dados · Sistemas Distribuídos · Digital Twins e Simulação · Automação Industrial
+
+🇺🇸 Software Engineering · Web Systems Development · Game Development (GameDev) · Artificial Intelligence & LLMs · Multi-Agent Systems · Data Engineering · Distributed Systems · Digital Twins & Simulation · Industrial Automation
 
 ---
 
