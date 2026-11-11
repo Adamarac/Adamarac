@@ -1,4 +1,4 @@
-<img src="assets/banner.svg" width="100%" alt="Olá! Eu sou o Alan · Hi! I'm Alan 👋">
+<img src="assets/banner.svg" width="100%" alt="Olá! Eu sou o Alan · Hi! I'm Alan">
 
 <p align="center">
   <a href="https://linkedin.com/in/alan-moura-silva/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
