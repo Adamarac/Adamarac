@@ -24,13 +24,17 @@
 
 ### 🛠️ Tech Stack
 
-| | |
-|---|---|
-| **Linguagens · Languages** | <img src="https://skillicons.dev/icons?i=python,java,js,cs" alt="Python, Java, JavaScript, C#"> <br> ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square) |
-| **Web** | <img src="https://skillicons.dev/icons?i=react,html,css" alt="React, HTML, CSS"> |
-| **Backend & Bancos de Dados · Databases** | <img src="https://skillicons.dev/icons?i=sqlite,mongodb" alt="SQLite, MongoDB"> <br> ![REST APIs](https://img.shields.io/badge/REST%20APIs-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white) |
-| **Ferramentas & Infraestrutura · Tools & Infrastructure** | <img src="https://skillicons.dev/icons?i=git,linux,docker,kubernetes,azure" alt="Git, Linux, Docker, Kubernetes, Azure"> |
-| **IA & Dados · AI & Data** | ![LLMs](https://img.shields.io/badge/LLMs-7C3AED?style=flat-square&logo=probot&logoColor=white) ![AI Agents](https://img.shields.io/badge/AI%20Agents-DB2777?style=flat-square&logo=robotframework&logoColor=white) ![Data Pipelines](https://img.shields.io/badge/Data%20Pipelines-0EA5E9?style=flat-square&logo=apacheairflow&logoColor=white) |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,cs,react,html,css,sqlite,mongodb,git,linux,docker,kubernetes,azure&perline=14" alt="Python, Java, JavaScript, C#, React, HTML, CSS, SQLite, MongoDB, Git, Linux, Docker, Kubernetes, Azure">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square" alt="SQL">
+  <img src="https://img.shields.io/badge/REST%20APIs-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white" alt="REST APIs">
+  <img src="https://img.shields.io/badge/LLMs-7C3AED?style=flat-square&logo=probot&logoColor=white" alt="LLMs">
+  <img src="https://img.shields.io/badge/AI%20Agents-DB2777?style=flat-square&logo=robotframework&logoColor=white" alt="AI Agents">
+  <img src="https://img.shields.io/badge/Data%20Pipelines-0EA5E9?style=flat-square&logo=apacheairflow&logoColor=white" alt="Data Pipelines">
+</p>
 
 ---
 
