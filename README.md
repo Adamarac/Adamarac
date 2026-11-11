@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou o Alan · Hi! I'm Alan 👋</h1>
+<img src="assets/banner.svg" width="100%" alt="Olá! Eu sou o Alan · Hi! I'm Alan 👋">
 
 <p align="center">
   <a href="https://linkedin.com/in/alan-moura-silva/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -25,7 +25,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,cs,react,html,css,sqlite,mongodb,git,linux,docker,kubernetes,azure&perline=14" alt="Python, Java, JavaScript, C#, React, HTML, CSS, SQLite, MongoDB, Git, Linux, Docker, Kubernetes, Azure">
+  <img src="https://skillicons.dev/icons?i=python,java,js,cs,react,html,css,sqlite,mongodb,git,linux,docker,kubernetes,aws&perline=14" alt="Python, Java, JavaScript, C#, React, HTML, CSS, SQLite, MongoDB, Git, Linux, Docker, Kubernetes, AWS">
 </p>
 
 <p align="center">
